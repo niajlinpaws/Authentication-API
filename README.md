@@ -13,15 +13,17 @@ Project Setup
 
 	# Database
 
-	MONGO_URI = <MONGODB CONNECTION STRING> For example:mongodb://localhost:27017/demoAuth
+	MONGO_URI = <MONGODB CONNECTION STRING> or mongodb://localhost:27017/demoAuth
 
 	# SMTP
-	FROM_MAIL = no-reply@demo.com
-	SMTP_HOST = smtp.gmail.com
-	SMTP_SERVICE = gmail
-	SMTP_AUTH_USER = <AUTH_USERNAME>
-	SMTP_AUTH_PASS = <AUTH_PASSWORD>
+	- FROM_MAIL = no-reply@demo.com
+	- SMTP_HOST = smtp.gmail.com
+	- SMTP_SERVICE = gmail
+	- SMTP_AUTH_USER = <AUTH_USERNAME>
+	- SMTP_AUTH_PASS = <AUTH_PASSWORD>
 
 3. start mongod instance.
 
 4. npm start
+
+5. Alternatively, install swagger inside public folder to utilise api documentation file (swagger.json) in public folder.  
