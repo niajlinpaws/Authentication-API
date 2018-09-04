@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+</head>
+<body>
+<p>We heard that you lost your password. Sorry about that!<p>
+
+<p>But don’t worry! You can use the following link to reset your password:</p>
+
+<a href="localhost:7777/reset_password/{{securityToken}}">localhost:7777/reset_password/{{securityToken}}</a>
+
+<p>If you don’t use this link within 3 hours, it will expire.<p>
+
+<p>Thanks,</p>
+<p>Your friends</p>	
+</body>
+<html>
+

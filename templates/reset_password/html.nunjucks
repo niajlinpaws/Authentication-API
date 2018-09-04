@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+<head>
+</head>
+<body>
+<p>Hello {{user}}<p>
+
+<p>We wanted to let you know that your password was changed.</p>
+
+<p>Please do not reply to this email with your password. We will never ask for your password, and we strongly discourage you from sharing it with anyone.<p>
+
+<p>Your friends</p>	
+</body>
+<html>
+

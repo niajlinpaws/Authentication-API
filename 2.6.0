@@ -1,0 +1,10 @@
+
+> typechecker@2.0.8 preinstall D:\xampp\htdocs\hope research auth\myapp\node_modules\extendr\node_modules\typechecker
+> node ./cyclic.js
+
+
+> typechecker@2.0.8 preinstall D:\xampp\htdocs\hope research auth\myapp\node_modules\extract-opts\node_modules\typechecker
+> node ./cyclic.js
+
++ email-templates@5.0.0
+added 172 packages in 34.54s
